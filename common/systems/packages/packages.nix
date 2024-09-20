@@ -17,14 +17,13 @@
 		calibre # ebub e-reader
 
 	##Communication
-		#discord
-		vesktop
+		vesktop # Better discord for linux
 		discord
 		thunderbird # email client
-		zoom-us # zoom chat
+		zoom-us # Video chat client
 
 	##Creativity
-		aseprite # Pixel art creation tool
+		aseprite # Pixel art creation program
 		blender # 3D modeling software
 		blockbench # Voxel modeling software
 		gimp # FOSS Photoshop
@@ -32,28 +31,25 @@
 		krita # Drawing program
 
 	##Gaming
-		# polymc # open source Minecraft launcher
 		steam
-		tetrio-desktop
-		linuxKernel.packages.linux_zen.xpadneo
-		atlauncher # Minecraft Launcher
-		mgba
-		desmume
-		snes9x
+		linuxKernel.packages.linux_zen.xpadneo # Steam controller support
+		atlauncher # Modded Minecraft Launcher
+		mgba # Game Boy Advance Emulator
+		desmume # DSI Emulator
+		snes9x # SNES Emulator
 
 
 	##Productivity
-		libreoffice-qt6-still
+		libreoffice-qt6-still # Libre Office program suite
 		mysql-workbench # MySQL editor
 		obsidian # Markdown editor
 		zed-editor # New text editor
-		jetbrains.idea-community
-		rstudio
-		android-studio
-		android-studio-tools 
+		jetbrains.idea-community # Jetbrains IDEA Community 
+		rstudio # R Language IDE
+		android-studio # IDE for Android development
+		android-studio-tools # Additional tools for Android Studio
 	##Tools
-		brave # Web browser
-		firefox
+		firefox # Web Browser
 		gparted # GUI partition manager
 		keepassxc # Locally hosted password manager
 		mullvad-vpn # VPN client
@@ -61,16 +57,16 @@
 		pika-backup # Backup manager
 		newsflash # RSS feed reader for GNOME
 		xorg.xev # Display key presses and codes
-		syncthing
-		protonmail-desktop
-		screenkey 
+		syncthing # File Syncronization tool
+		protonmail-desktop # Desktop client for Proton Mail 
+		screenkey # Displays key presses on screen
 		usbutils # additional tools for cli
-		synology-drive-client 
-		qemu
-		virt-manager
-		libvirt
-		resources # Task manager-esque 
-		gnome-multi-writer
+		synology-drive-client # Client for synology drive sync
+		qemu # Hypervisor program
+		virt-manager # Virtual machine manager
+		libvirt # Library for virtual machines
+		resources # Task manager-esque program 
+		gnome-multi-writer # GUI tool for create bootable USBs
 		
 	##Video
 		makemkv # BluRay and DVD ripper
@@ -78,7 +74,7 @@
 		libbluray # Library to access Blu-Ray disks for playback
 		libaacs # Library to access AACS protected Blu-Ray disks
 		handbrake # Tool for encoding video files 
-		freetube
+		freetube # Youtube program
 
 	#====Hyprland=======================================#
 
@@ -92,10 +88,7 @@
 		xdg-desktop-portal-hyprland
 		wev # wayland xev
 		wl-clipboard
-		cliphist
-
-	#====GNOME Extensions==============================#
-
+		cliphist # Clipboard history manager for hyprland
 		
 
 	#====CLI Programs==================================#
